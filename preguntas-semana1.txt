@@ -1,9 +1,11 @@
------> Pasos para verificar y compatir información verídica en internet:
-    1 > Saber del tema tratado. 
-    2 > Estar atento a la información brindada.
-    3 > De manera critica reflexionar respecto a la información.
-    4 > Comprobar la veracidad y confiabilidad de la fuente que comparte la información.
-    5 > Validar y dialogar con terceros.
-    6 > Buscar en otras fuentes de información la validez y credibilidad.
-    7 > Una vez comprobada la información y fuente y haber aplicado un criterio de veracidad; Puedes compartir la información.
-    8 > En caso de encontrar inconsistencias en la información EVITAR difundir la publicación y NUNCA compartir información importante solo por emoción.
+Pregunta
+    ¿Cuál de las siguientes opciones describe mejor qué es la ciudadanía digital?
+        Respuesta_1: El uso responsable de la tecnología para informarse, participar y compartir información de manera ética
+
+    Pregunta
+        ¿Cuál es la razón principal por la que es importante verificar la información antes de compartirla en internet?
+Respuesta_2: Para evitar difundir información falsa o engañosa
+
+Pregunta
+    ¿Cuál de las siguientes opciones define mejor un algoritmo?
+        Respuesta_3: Una lista de pasos ordenados para resolver un problema
